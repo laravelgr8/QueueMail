@@ -1,0 +1,1 @@
+<h2>This is my test bulk mail. {{$email}}</h2>
